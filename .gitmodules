@@ -1,0 +1,6 @@
+[submodule "Vendor/Alamofire"]
+	path = Vendor/Alamofire
+	url = https://github.com/Alamofire/Alamofire.git
+[submodule "Vendor/SwiftyJSON"]
+	path = Vendor/SwiftyJSON
+	url = https://github.com/SwiftyJSON/SwiftyJSON.git
