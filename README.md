@@ -13,7 +13,7 @@ or
 git submodule update --init --recursive
 ```
 
-Set your **Client ID** on `ViewController.swift` to use Instagram via API.
+Set your **Client ID** on `ViewController.swift` to fetch data from Instagram.
 
 
 ## License
